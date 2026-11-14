@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Привет, я Legomocin
 
-<!--
-**Legomocinlol/Legomocinlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🎥 YouTube: [ссылка на канал]()
+> 🎵 TikTok: [ссылка на канал]()
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Обо мне
+
+- 🔧 Вайбкодер с нулём денег — делаю проекты на энтузиазме
+- 🎯 Ориентируюсь на **ESP32-S3** и аналогичные устройства
+- 🎬 Веду канал **Legomocin** на YouTube и TikTok
+- 🛠️ Люблю встраиваемые системы, микроконтроллеры и DIY-электронику
+- 🚀 Верю, что можно собрать что угодно из того, что валяется под рукой
+
+---
+
+## 🧰 Стек и железо
+
+![ESP32-S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Что я делаю
+
+- 🔌 Проекты на **ESP32-S3**: Wi-Fi, BLE, дисплеи, датчики
+- 🎮 Встраиваемые штуки для контента на канале
+- 🧪 Эксперименты с периферией и «аналогами» ESP32-S3
+- 📹 Разбираю железо и код в видео на **Legomocin**
+
+---
+
+## 📊 Статистика GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Legomocin&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legomocin&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🖼️ Картинки
+
+<!-- Сюда вставишь свои картинки -->
+![Баннер]()
+![Фото проекта]()
+
+---
+
+## 📫 Связаться со мной
+
+- 🎥 YouTube: [ссылка]()
+- 🎵 TikTok: [ссылка]()
+
+---
+
+⭐ Если тебе зашли мои проекты — поставь звёздочку!
