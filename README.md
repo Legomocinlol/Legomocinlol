@@ -37,9 +37,9 @@
 
 ## 📊 Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Legomocin&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Legomocinlol&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legomocin&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legomocinlol&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -53,8 +53,8 @@
 
 ## 📫 Связаться со мной
 
-- 🎥 YouTube: [ссылка]()
-- 🎵 TikTok: [ссылка]()
+- 🎥 YouTube: [https://www.youtube.com/@Legomocin_official]()
+- 🎵 TikTok: [https://www.tiktok.com/@legomocin]()
 
 ---
 
