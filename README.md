@@ -43,7 +43,7 @@
 ## 🖼️ Картинки
 
 <!-- Сюда вставишь свои картинки -->
-![Кот-гармонист в снежном вечере.png]()
+![https://github.com/Legomocinlol/Legomocinlol/blob/main/%D0%9A%D0%BE%D1%82-%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%81%D1%82%20%D0%B2%20%D1%81%D0%BD%D0%B5%D0%B6%D0%BD%D0%BE%D0%BC%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%B5.png]()
 
 ---
 
