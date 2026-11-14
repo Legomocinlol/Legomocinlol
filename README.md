@@ -32,17 +32,8 @@
 
 ---
 
-## 📊 Статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Legomocinlol&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legomocinlol&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🖼️ Картинки
 
-<!-- Здесь картинка вставлена правильно. В скобках [] — название, в () — ссылка -->
 ![Кот-гармонист в снежном вечере](https://raw.githubusercontent.com/Legomocinlol/Legomocinlol/main/Кот-гармонист%20в%20снежном%20вечере.png)
 
 ---
