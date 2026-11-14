@@ -42,15 +42,15 @@
 
 ## 🖼️ Картинки
 
-<!-- Сюда вставишь свои картинки -->
-![https://raw.githubusercontent.com/Legomocinlol/Legomocinlol/main/Кот-гармонист%20в%20снежном%20вечере.png]()
+<!-- Здесь картинка вставлена правильно. В скобках [] — название, в () — ссылка -->
+![Кот-гармонист в снежном вечере](https://raw.githubusercontent.com/Legomocinlol/Legomocinlol/main/Кот-гармонист%20в%20снежном%20вечере.png)
 
 ---
 
 ## 📫 Связаться со мной
 
-- 🎥 YouTube: [https://www.youtube.com/@Legomocin_official]()
-- 🎵 TikTok: [https://www.tiktok.com/@legomocin]()
+- 🎥 YouTube: [Legomocin_official](https://www.youtube.com/@Legomocin_official)
+- 🎵 TikTok: [legomocin](https://www.tiktok.com/@legomocin)
 
 ---
 
